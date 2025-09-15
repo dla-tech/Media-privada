@@ -9,10 +9,26 @@
   },
   {
     "title": "Logo oficial",
-    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/refs/heads/main/Logo%20de%20la%20iglesia%20PIPJM-2.png",
+    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/refs/heads/main/7f6d0715-e757-4a11-a12a-771690367985.jpeg",
     "filename": "logo pipjm",
     "active": true,
     "order": 2,
+    "aspectRatio": "1/1"
+  },
+  {
+    "title": "Logo oficial",
+    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/refs/heads/main/7f6d0715-e757-4a11-a12a-771690367985.jpeg",
+    "filename": "logo pipjm",
+    "active": true,
+    "order": 3,
+    "aspectRatio": "1/1"
+  },
+  {
+    "title": "Logo oficial",
+    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/refs/heads/main/7f6d0715-e757-4a11-a12a-771690367985.jpeg",
+    "filename": "logo pipjm",
+    "active": true,
+    "order": 4,
     "aspectRatio": "1/1"
   }
 ]
