@@ -1,1 +1,18 @@
-goolebz
+[
+  {
+    "title": "Especial de abril",
+    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/main/Promo/2025-04-13-17-10-05-878.jpeg",
+    "filename": "especial-abril.jpeg",
+    "active": true,
+    "order": 1,
+    "aspectRatio": "1/1"
+  },
+  {
+    "title": "Pastelillos clásicos",
+    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/main/Promo/IMG_7782.jpeg",
+    "filename": "pastelillos-clasicos.jpeg",
+    "active": true,
+    "order": 2,
+    "aspectRatio": "1/1"
+  }
+]
