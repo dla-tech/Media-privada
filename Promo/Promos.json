@@ -1,15 +1,15 @@
 [
   {
-    "title": "Especial de abril",
-    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/main/Promo/2025-04-13-17-10-05-878.jpeg",
-    "filename": "especial-abril.jpeg",
+    "title": "Día de la Biblia",
+    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/refs/heads/main/7f6d0715-e757-4a11-a12a-771690367985.jpeg",
+    "filename": "Día de la Biblia",
     "active": true,
     "order": 1,
     "aspectRatio": "1/1"
   },
   {
-    "title": "Pastelillos clásicos",
-    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/main/Promo/IMG_7782.jpeg",
+    "title": "Prueba",
+    "imageUrl": "",
     "filename": "pastelillos-clasicos.jpeg",
     "active": true,
     "order": 2,
