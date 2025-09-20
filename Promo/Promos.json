@@ -5,11 +5,11 @@
     "filename": "Día de la Biblia",
     "active": true,
     "order": 1,
-    "aspectRatio": "1/1"
+    "aspectRatio": "1/0.5"
   },
   {
-    "title": "Prueba de dos",
-    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/refs/heads/main/Promo_2025-09-14_18-03.jpg",
+    "title": "",
+    "imageUrl": "",
     "filename": "",
     "active": true,
     "order": 2,
