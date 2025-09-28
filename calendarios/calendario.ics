@@ -4,14 +4,14 @@ PRODID:-//PIPJM//Calendario Evangelísticos//ES
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 
-
 BEGIN:VEVENT
 UID:20250930T190000-CRISTAL@iglesia
 DTSTAMP:20250801T120000Z
 DTSTART:20250930T190000
 DTEND:20250930T203000
 SUMMARY:Culto Evangelístico — Sección I (Cristal)
-LOCATION:Cristal, Maunabo, PR
+LOCATION:Cristal — Maunabo, PR
+URL:https://maps.app.goo.gl/gDbzuARtZoCMKDBWA?g_st=ipc
 END:VEVENT
 
 BEGIN:VEVENT
@@ -20,7 +20,8 @@ DTSTAMP:20250701T120000Z
 DTSTART:20251001T190000
 DTEND:20251001T203000
 SUMMARY:Culto Evangelístico — Miércoles
-LOCATION:https://maps.app.goo.gl/fDnT4aLx6upHSKyx6?g_st=ipc
+LOCATION:Francisco Collazo — Villas de Maunabo (Talante)
+URL:https://maps.app.goo.gl/fDnT4aLx6upHSKyx6?g_st=ipc
 END:VEVENT
 
 BEGIN:VEVENT
@@ -28,8 +29,9 @@ UID:20251007T190000-TUE@pipjm
 DTSTAMP:20250701T120000Z
 DTSTART:20251007T190000
 DTEND:20251007T203000
-SUMMARY:Culto Evangelístico — Martes
-LOCATION:https://maps.app.goo.gl/EYuXQzZadAfVvCTU6?g_st=ipc
+SUMMARY:Culto Evangelístico — Sección II
+LOCATION:Alicia García — La Playa, Emajagua
+URL:https://maps.app.goo.gl/EYuXQzZadAfVvCTU6?g_st=ipc
 END:VEVENT
 
 BEGIN:VEVENT
@@ -37,8 +39,9 @@ UID:20251008T190000-WED@pipjm
 DTSTAMP:20250701T120000Z
 DTSTART:20251008T190000
 DTEND:20251008T203000
-SUMMARY:Culto Evangelístico — Miércoles
-LOCATION:https://maps.app.goo.gl/3jtZ6YteM8SwUmhx8?g_st=ipc
+SUMMARY:Culto Evangelístico — Sección II
+LOCATION:José Brito — Mariani, Emajagua
+URL:https://maps.app.goo.gl/3jtZ6YteM8SwUmhx8?g_st=ipc
 END:VEVENT
 
 BEGIN:VEVENT
@@ -46,8 +49,9 @@ UID:20251014T190000-TUE@pipjm
 DTSTAMP:20250701T120000Z
 DTSTART:20251014T190000
 DTEND:20251014T203000
-SUMMARY:Culto Evangelístico — Martes
-LOCATION:https://maps.app.goo.gl/9iJeqtaKRpYXrhDC6?g_st=ipc
+SUMMARY:Culto Evangelístico — Sección III
+LOCATION:Barrio Matuyas Alto — Maunabo
+URL:https://maps.app.goo.gl/9iJeqtaKRpYXrhDC6?g_st=ipc
 END:VEVENT
 
 BEGIN:VEVENT
@@ -55,8 +59,9 @@ UID:20251015T190000-WED@pipjm
 DTSTAMP:20250701T120000Z
 DTSTART:20251015T190000
 DTEND:20251015T203000
-SUMMARY:Culto Evangelístico — Miércoles
-LOCATION:https://maps.app.goo.gl/NsBXjDZ2JoZKFumm7?g_st=ipc
+SUMMARY:Culto Evangelístico — Sección III
+LOCATION:Josefina Rosado — Maunabo
+URL:https://maps.app.goo.gl/NsBXjDZ2JoZKFumm7?g_st=ipc
 END:VEVENT
 
 BEGIN:VEVENT
@@ -64,8 +69,9 @@ UID:20251021T190000-TUE@pipjm
 DTSTAMP:20250701T120000Z
 DTSTART:20251021T190000
 DTEND:20251021T203000
-SUMMARY:Culto Evangelístico — Martes
-LOCATION:https://maps.app.goo.gl/fDnT4aLx6upHSKyx6?g_st=ipc
+SUMMARY:Culto Evangelístico — Sección I
+LOCATION:Iris Vega — Villas de Maunabo
+URL:https://maps.app.goo.gl/fDnT4aLx6upHSKyx6?g_st=ipc
 END:VEVENT
 
 BEGIN:VEVENT
@@ -73,8 +79,9 @@ UID:20251022T190000-WED@pipjm
 DTSTAMP:20250701T120000Z
 DTSTART:20251022T190000
 DTEND:20251022T203000
-SUMMARY:Culto Evangelístico — Miércoles
-LOCATION:https://maps.app.goo.gl/qdSHUEufRT7zrgRR7?g_st=ipc
+SUMMARY:Culto Evangelístico — Sección I
+LOCATION:Juan y Nory — Quebrada Arenas
+URL:https://maps.app.goo.gl/qdSHUEufRT7zrgRR7?g_st=ipc
 END:VEVENT
 
 BEGIN:VEVENT
@@ -82,8 +89,9 @@ UID:20251028T190000-TUE@pipjm
 DTSTAMP:20250701T120000Z
 DTSTART:20251028T190000
 DTEND:20251028T203000
-SUMMARY:Culto Evangelístico — Martes
-LOCATION:https://maps.app.goo.gl/d3kSpWi1HZKeQxV76?g_st=ipc
+SUMMARY:Culto Evangelístico — Sección II
+LOCATION:Brunilda Sánchez — Bordaleza
+URL:https://maps.app.goo.gl/d3kSpWi1HZKeQxV76?g_st=ipc
 END:VEVENT
 
 BEGIN:VEVENT
@@ -91,8 +99,9 @@ UID:20251029T190000-WED@pipjm
 DTSTAMP:20250701T120000Z
 DTSTART:20251029T190000
 DTEND:20251029T203000
-SUMMARY:Culto Evangelístico — Miércoles
-LOCATION:https://maps.app.goo.gl/V3knGYFykL1n5Eyc6?g_st=ipc
+SUMMARY:Culto Evangelístico — Sección II
+LOCATION:Marcos Rivera — Arroyo, Brisas (Emajagua)
+URL:https://maps.app.goo.gl/V3knGYFykL1n5Eyc6?g_st=ipc
 END:VEVENT
 
 END:VCALENDAR
