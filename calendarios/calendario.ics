@@ -2,366 +2,120 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-PRODID:-//PIPJM//Calendario Evangelístico Noviembre 2025//ES
+PRODID:-//Dilan//Calendario ICS//ES
 
-; Día 1 - Sábado 1 de noviembre
 BEGIN:VEVENT
-UID:nov2025-001@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART;VALUE=DATE:20251101
-DTEND;VALUE=DATE:20251102
-SUMMARY:Altar familiar
-DESCRIPTION:Persona encargada: La fam.
-LOCATION:Hogar
-URL:
+UID:oracion-lunes-20251201T060000
+SUMMARY:Oración matutina
+DTSTART:20251201T060000
+DTEND:20251201T080000
+DESCRIPTION:Oración de 6am a 8am.
 END:VEVENT
 
-; Día 2 - Domingo 2 de noviembre
 BEGIN:VEVENT
-UID:nov2025-002@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251102T124500Z
-DTEND:20251102T190000Z
-SUMMARY:Escuela Bíblica y Culto de Adoración y Evangelístico
-DESCRIPTION:Persona encargada: Cantores • Predicadora: Nélida Brito
-LOCATION:Templo
-URL:
+UID:culto-oracion-20251201T190000
+SUMMARY:Culto de oración
+DTSTART:20251201T190000
+DTEND:20251201T210000
+DESCRIPTION:Culto de oración congregacional.
 END:VEVENT
 
-; Día 3 - Lunes 3 de noviembre
 BEGIN:VEVENT
-UID:nov2025-003@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251103T230000Z
-DTEND:20251104T010000Z
-SUMMARY:Culto de Oración
-DESCRIPTION:Persona encargada: Líderes
-LOCATION:Templo
-URL:
+UID:oracion-martes-20251202T060000
+SUMMARY:Oración matutina
+DTSTART:20251202T060000
+DTEND:20251202T080000
+DESCRIPTION:Oración de 6am a 8am.
 END:VEVENT
 
-; Día 4 - Martes 4 de noviembre
 BEGIN:VEVENT
-UID:nov2025-004@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251104T230000Z
-DTEND:20251105T010000Z
-SUMMARY:Culto Evangelístico — Sección III (Xavier León — Lizas)
-DESCRIPTION:Persona encargada: Líderes • Predicador: Abner Márquez
-LOCATION:Xavier León — Lizas — Maunabo
-URL:https://maps.app.goo.gl/ngX1m9yLuQ3EQTLK6?g_st=ipc
+UID:culto-evangelistico-20251202T190000
+SUMMARY:Culto evangelístico
+DTSTART:20251202T190000
+DTEND:20251202T210000
+LOCATION:Villa Navarro
+DESCRIPTION:Prédica: Wanda Brito\nPin: https://maps.app.goo.gl/drpFxnbXxhrfL6CZ7?g_st=ipc
 END:VEVENT
 
-; Día 5 - Miércoles 5 de noviembre
 BEGIN:VEVENT
-UID:nov2025-005@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251105T230000Z
-DTEND:20251106T010000Z
-SUMMARY:Culto Evangelístico — Sección III (vicenta Figueroa - Palo Seco)
-DESCRIPTION:Persona encargada: Líderes • Predicadora: Carmen Cordero
-LOCATION:casa de Vicenta Figueroa — Palo Seco — Maunabo
-URL:https://maps.app.goo.gl/vNHDwUVsYtRnfimv7?g_st=ipc
+UID:oracion-miercoles-20251203T060000
+SUMMARY:Oración matutina
+DTSTART:20251203T060000
+DTEND:20251203T080000
+DESCRIPTION:Oración de 6am a 8am.
 END:VEVENT
 
-; Día 6 - Jueves 6 de noviembre
 BEGIN:VEVENT
-UID:nov2025-006@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251106T230000Z
-DTEND:20251107T010000Z
-SUMMARY:Limpieza del Templo y Atrios / Rayitos de Luz (Sociedad de Niños)
-DESCRIPTION:Encargadas: Líderes y Bianca P. Ortiz • Predicadora: Sonia Ortiz
-LOCATION:Templo
-URL:
+UID:culto-evangelistico-20251203T190000
+SUMMARY:Culto evangelístico
+DTSTART:20251203T190000
+DTEND:20251203T210000
+LOCATION:Los Almendros Talante
+DESCRIPTION:Prédica: Christopher Lamb\nPin: https://maps.app.goo.gl/rZ734wpRtJUzySZt6?g_st=ipc
 END:VEVENT
 
-; Día 7 - Viernes 7 de noviembre
 BEGIN:VEVENT
-UID:nov2025-007@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251107T230000Z
-DTEND:20251108T010000Z
-SUMMARY:Culto Auspiciado por los Capellanes Uniformados de la Policía de P.R.
-DESCRIPTION:Persona encargada: Líderes • Act. Ramonita Núñez • Predicador: Pastor Jorge González
-LOCATION:Templo
-URL:
+UID:oracion-jueves-20251204T060000
+SUMMARY:Oración matutina
+DTSTART:20251204T060000
+DTEND:20251204T080000
+DESCRIPTION:Oración de 6am a 8am.
 END:VEVENT
 
-; Día 8 - Sábado 8 de noviembre
 BEGIN:VEVENT
-UID:nov2025-008@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART;VALUE=DATE:20251108
-DTEND;VALUE=DATE:20251109
-SUMMARY:Altar familiar
-DESCRIPTION:Persona encargada: La fam.
-LOCATION:Hogar
-URL:
+UID:limpieza-20251204T080000
+SUMMARY:Limpieza de templos y atrios
+DTSTART:20251204T080000
+DTEND:20251204T110000
+DESCRIPTION:Limpieza general de templos y atrios.
 END:VEVENT
 
-; Día 9 - Domingo 9 de noviembre
 BEGIN:VEVENT
-UID:nov2025-009@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251109T124500Z
-DTEND:20251109T190000Z
-SUMMARY:Escuela Bíblica y Culto de Adoración y Evangelístico
-DESCRIPTION:Persona encargada: Cantores • Predicador: Marcos Rivera
-LOCATION:Templo
-URL:
+UID:culto-ninos-20251204T190000
+SUMMARY:Culto de sociedad de niños
+DTSTART:20251204T190000
+DTEND:20251204T210000
+DESCRIPTION:Prédica: Natan Márquez.
 END:VEVENT
 
-; Día 10 - Lunes 10 de noviembre
 BEGIN:VEVENT
-UID:nov2025-010@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251110T230000Z
-DTEND:20251111T010000Z
-SUMMARY:Culto de Oración
-DESCRIPTION:Persona encargada: Líderes
-LOCATION:Templo
-URL:
+UID:oracion-viernes-20251205T060000
+SUMMARY:Oración matutina
+DTSTART:20251205T060000
+DTEND:20251205T080000
+DESCRIPTION:Oración de 6am a 8am.
 END:VEVENT
 
-; Día 11 - Martes 11 de noviembre
 BEGIN:VEVENT
-UID:nov2025-011@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251111T230000Z
-DTEND:20251112T010000Z
-SUMMARY:Culto Evangelístico — Sección I (Límite La Pica)
-DESCRIPTION:Persona encargada: Líderes • Predicadora: Lisandra Rivera
-LOCATION:Límite La Pica — Maunabo
-URL:https://maps.app.goo.gl/cq4LekPNfJvx4ZY9A?g_st=ipc
+UID:caballeros-culto-20251205T190000
+SUMMARY:Culto sociedad de caballeros
+DTSTART:20251205T190000
+DTEND:20251205T210000
+DESCRIPTION:Prédica: Jehovais Lebron.
 END:VEVENT
 
-; Día 12 - Miércoles 12 de noviembre
 BEGIN:VEVENT
-UID:nov2025-012@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251112T230000Z
-DTEND:20251113T010000Z
-SUMMARY:Culto Evangelístico — Sección I (Sector Sánchez)
-DESCRIPTION:Persona encargada: Líderes • Predicadora: Milagros Nieves
-LOCATION:Sector Sánchez — Maunabo
-URL:
+UID:caballeros-retiro-20251206T060000
+SUMMARY:Retiro de caballeros
+DTSTART:20251206T060000
+DTEND:20251206T090000
+DESCRIPTION:Retiro de caballeros.
 END:VEVENT
 
-; Día 13 - Jueves 13 de noviembre
 BEGIN:VEVENT
-UID:nov2025-013@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251113T230000Z
-DTEND:20251114T010000Z
-SUMMARY:Limpieza del Templo y Atrios / Jubileo — Sociedad de Niños Rayitos de Luz
-DESCRIPTION:Persona encargada: Líderes • Predicadores: Jaileene Brito y Jonathan Márquez
-LOCATION:Templo
-URL:
+UID:escuela-biblica-20251207T085500
+SUMMARY:Escuela bíblica
+DTSTART:20251207T085500
+DTEND:20251207T104500
+DESCRIPTION:Escuela bíblica dominical.
 END:VEVENT
 
-; Día 14 - Viernes 14 de noviembre
 BEGIN:VEVENT
-UID:nov2025-014@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251114T230000Z
-DTEND:20251115T020000Z
-SUMMARY:Jubileo — Sociedad de Niños Rayitos de Luz (½ Vigilia)
-DESCRIPTION:Persona encargada: Líderes • Predicadora: Débora Ortiz
-LOCATION:Templo
-URL:
-END:VEVENT
-
-; Día 15 - Sábado 15 de noviembre
-BEGIN:VEVENT
-UID:nov2025-015@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART;VALUE=DATE:20251115
-DTEND;VALUE=DATE:20251116
-SUMMARY:Altar familiar
-DESCRIPTION:Persona encargada: La fam.
-LOCATION:Hogar
-URL:
-END:VEVENT
-
-; Día 16 - Domingo 16 de noviembre
-BEGIN:VEVENT
-UID:nov2025-016@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251116T124500Z
-DTEND:20251116T190000Z
-SUMMARY:Escuela Bíblica y Culto de Adoración y Evangelístico
-DESCRIPTION:Persona encargada: Cantores
-LOCATION:Templo
-URL:
-END:VEVENT
-
-; Día 17 - Lunes 17 de noviembre
-BEGIN:VEVENT
-UID:nov2025-017@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251117T230000Z
-DTEND:20251118T010000Z
-SUMMARY:Culto de Oración
-DESCRIPTION:Persona encargada: Líderes
-LOCATION:Templo
-URL:
-END:VEVENT
-
-; Día 18 - Martes 18 de noviembre
-BEGIN:VEVENT
-UID:nov2025-018@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251118T230000Z
-DTEND:20251119T010000Z
-SUMMARY:Culto Evangelístico — Sección II (Santa Rivera — El Puerto — Emajagua)
-DESCRIPTION:Persona encargada: Líderes • Predicador: Víctor Lamb
-LOCATION:Santa Rivera — El Puerto — Emajagua
-URL:
-END:VEVENT
-
-; Día 19 - Miércoles 19 de noviembre
-BEGIN:VEVENT
-UID:nov2025-019@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251119T230000Z
-DTEND:20251120T010000Z
-SUMMARY:Culto Evangelístico — Sección II (Carmen Collazo — Mariani — Emajagua)
-DESCRIPTION:Persona encargada: Líderes • Predicadora: María E. Brito
-LOCATION:Carmen Collazo — Mariani — Emajagua
-URL:https://maps.app.goo.gl/tuD7H7M3QC8gZ8hH8?g_st=ipc
-END:VEVENT
-
-; Día 20 - Jueves 20 de noviembre
-BEGIN:VEVENT
-UID:nov2025-020@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251120T230000Z
-DTEND:20251121T010000Z
-SUMMARY:Limpieza del Templo y Atrios / Estudio Bíblico
-DESCRIPTION:Persona encargada: Líderes
-LOCATION:Templo
-URL:
-END:VEVENT
-
-; Día 21 - Viernes 21 de noviembre
-BEGIN:VEVENT
-UID:nov2025-021@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251121T230000Z
-DTEND:20251122T010000Z
-SUMMARY:Culto de Sociedad de Jóvenes “Adalides Cristianos”
-DESCRIPTION:Persona encargada: Líderes • Predicador: Christopher Lamb
-LOCATION:Templo
-URL:
-END:VEVENT
-
-; Día 22 - Sábado 22 de noviembre
-BEGIN:VEVENT
-UID:nov2025-022@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART;VALUE=DATE:20251122
-DTEND;VALUE=DATE:20251123
-SUMMARY:Altar familiar y Bautismos
-DESCRIPTION:Persona encargada: La fam.
-LOCATION:Hogar
-URL:
-END:VEVENT
-
-; Día 23 - Domingo 23 de noviembre
-BEGIN:VEVENT
-UID:nov2025-023@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251123T124500Z
-DTEND:20251123T190000Z
-SUMMARY:Escuela Bíblica y Culto de Adoración y Evangelístico
-DESCRIPTION:Persona encargada: Cantores • Predicador: Eleuterio Márquez
-LOCATION:Templo
-URL:
-END:VEVENT
-
-; Día 24 - Lunes 24 de noviembre
-BEGIN:VEVENT
-UID:nov2025-024@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251124T230000Z
-DTEND:20251125T010000Z
-SUMMARY:Culto de Oración
-DESCRIPTION:Persona encargada: Líderes
-LOCATION:Templo
-URL:
-END:VEVENT
-
-; Día 25 - Martes 25 de noviembre
-BEGIN:VEVENT
-UID:nov2025-025@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251125T230000Z
-DTEND:20251126T010000Z
-SUMMARY:Culto Evangelístico — Sección III (Solar Migdalia Colón — Recta Calzada)
-DESCRIPTION:Persona encargada: Líderes
-LOCATION:Solar Migdalia Colón — Recta Calzada — Maunabo
-URL:https://maps.app.goo.gl/o8EfMHBYckdVF8d46?g_st=ipc
-END:VEVENT
-
-; Día 26 - Miércoles 26 de noviembre
-BEGIN:VEVENT
-UID:nov2025-026@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251126T230000Z
-DTEND:20251127T010000Z
-SUMMARY:Culto Evangelístico — Sección III (Sector La Central — Recta Calzada)
-DESCRIPTION:Persona encargada: Líderes • Predicadores: Oscar Hernández y Edwin León
-LOCATION:Sector La Central — Batey Columbia — Maunabo
-URL:https://maps.app.goo.gl/CfJJzrAa9EeAmT2W7?g_st=ipc
-END:VEVENT
-
-; Día 27 - Jueves 27 de noviembre
-BEGIN:VEVENT
-UID:nov2025-027@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251127T120000Z
-DTEND:20251127T140000Z
-SUMMARY:Culto General de Acción de Gracias
-DESCRIPTION:Hora: 8:00 a.m. • Persona encargada: Líderes
-LOCATION:Templo
-URL:
-END:VEVENT
-
-; Día 28 - Viernes 28 de noviembre
-BEGIN:VEVENT
-UID:nov2025-028@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251128T230000Z
-DTEND:20251129T010000Z
-SUMMARY:Culto de Damas “Sembradoras de Amor” (con uniforme)
-DESCRIPTION:Persona encargada: Líderes • Predicadora: Nora H. Morales
-LOCATION:Templo
-URL:
-END:VEVENT
-
-; Día 29 - Sábado 29 de noviembre
-BEGIN:VEVENT
-UID:nov2025-029@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251129T230000Z
-DTEND:20251130T010000Z
-SUMMARY:Retiro Congregacional
-DESCRIPTION:Persona encargada: Líderes
-LOCATION:Templo
-URL:
-END:VEVENT
-
-; Día 30 - Domingo 30 de noviembre
-BEGIN:VEVENT
-UID:nov2025-030@pipjmpr
-DTSTAMP:20251030T120000Z
-DTSTART:20251130T124500Z
-DTEND:20251130T190000Z
-SUMMARY:Escuela Bíblica y Culto de Adoración y Evangelístico — Santa Cena
-DESCRIPTION:Persona encargada: Cantores • Predicadora: Nélida Brito
-LOCATION:Templo
-URL:
+UID:culto-evangelistico-20251207T113000
+SUMMARY:Culto evangelístico
+DTSTART:20251207T113000
+DTEND:20251207T133000
+DESCRIPTION:Prédica: Abner Márquez.
 END:VEVENT
 
 END:VCALENDAR
