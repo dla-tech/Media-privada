@@ -2,28 +2,116 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-PRODID:-//PIPJM//Calendario Evangelístico Diciembre 2025//ES
+PRODID:-//PIPJM//Calendario Diciembre 2025 (Martes y Miércoles)//ES
 
 BEGIN:VEVENT
-UID:dic2025-001@pipjmpr
+UID:dic2025-002@pipjmpr
 DTSTAMP:20251201T000000Z
 DTSTART:20251202T230000Z
 DTEND:20251203T010000Z
-SUMMARY:Culto Evangelístico
+SUMMARY:Culto Evangelístico — Sección I (Villa Navarro)
 DESCRIPTION:Prédica: Wanda Brito
 LOCATION:Villa Navarro — Maunabo
 URL:https://maps.app.goo.gl/drpFxnbXxhrfL6CZ7?g_st=ipc
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dic2025-002@pipjmpr
+UID:dic2025-003@pipjmpr
 DTSTAMP:20251201T000000Z
 DTSTART:20251203T230000Z
 DTEND:20251204T010000Z
-SUMMARY:Culto Evangelístico
+SUMMARY:Culto Evangelístico — Sección I (Los Almendros)
 DESCRIPTION:Prédica: Christopher Lamb
-LOCATION:Los Almendros Talante — Maunabo
+LOCATION:Los Almendros — Maunabo
 URL:https://maps.app.goo.gl/rZ734wpRtJUzySZt6?g_st=ipc
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dic2025-009@pipjmpr
+DTSTAMP:20251201T000000Z
+DTSTART:20251209T230000Z
+DTEND:20251210T010000Z
+SUMMARY:Culto Evangelístico — Sección II (Solar Bordaleza — Emajagua)
+DESCRIPTION:Persona encargada: Líderes • Prédica: Ramonita Núñez
+LOCATION:Solar Bordaleza — Emajagua
+URL:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dic2025-010@pipjmpr
+DTSTAMP:20251201T000000Z
+DTSTART:20251210T230000Z
+DTEND:20251211T010000Z
+SUMMARY:Culto Evangelístico — Sección II (Entrada Playa Mario — Emajagua)
+DESCRIPTION:Persona encargada: Líderes • Prédica: Jonathan Márquez
+LOCATION:Entrada Playa Mario — Emajagua
+URL:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dic2025-016@pipjmpr
+DTSTAMP:20251201T000000Z
+DTSTART:20251216T230000Z
+DTEND:20251217T010000Z
+SUMMARY:Culto Evangelístico — Sección I (Aníbal Ortiz — Barrio Tumbo Abajo)
+DESCRIPTION:Persona encargada: Líderes • Prédica: José M. Lebrón
+LOCATION:Aníbal Ortiz — Barrio Tumbo Abajo
+URL:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dic2025-017@pipjmpr
+DTSTAMP:20251201T000000Z
+DTSTART:20251217T230000Z
+DTEND:20251218T010000Z
+SUMMARY:Culto Evangelístico — Sección I (Palo Seco)
+DESCRIPTION:Persona encargada: Líderes • Prédica: Dileen Lebrón
+LOCATION:Palo Seco — Maunabo
+URL:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dic2025-023@pipjmpr
+DTSTAMP:20251201T000000Z
+DTSTART:20251223T230000Z
+DTEND:20251224T010000Z
+SUMMARY:Culto de Oración
+DESCRIPTION:Persona encargada: Líderes
+LOCATION:Templo
+URL:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dic2025-024@pipjmpr
+DTSTAMP:20251201T000000Z
+DTSTART:20251224T230000Z
+DTEND:20251225T010000Z
+SUMMARY:Culto de Oración
+DESCRIPTION:Persona encargada: Líderes • Prédica: Eugenio de Jesús
+LOCATION:Templo
+URL:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dic2025-030@pipjmpr
+DTSTAMP:20251201T000000Z
+DTSTART:20251230T230000Z
+DTEND:20251231T010000Z
+SUMMARY:Culto de Oración
+DESCRIPTION:Persona encargada: Líderes
+LOCATION:Templo
+URL:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:dic2025-031@pipjmpr
+DTSTAMP:20251201T000000Z
+DTSTART:20251231T230000Z
+DTEND:20260101T010000Z
+SUMMARY:Culto Despedida de Año
+DESCRIPTION:Persona encargada: Líderes • Prédica: Marcos Rivera
+LOCATION:Templo
+URL:
 END:VEVENT
 
 END:VCALENDAR
