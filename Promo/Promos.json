@@ -8,17 +8,17 @@
     "aspectRatio": "1/1"
   },
   {
-    "title": "",
-    "imageUrl": "",
-    "filename": "",
+    "title": "Dia de la Biblia",
+    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/refs/heads/main/b2a778fc-74ed-4b3e-978e-a8ab87e3064c.jpeg",
+    "filename": "culto",
     "active": true,
     "order": 2,
     "aspectRatio": "1/1"
   },
   {
-    "title": "",
-    "imageUrl": "",
-    "filename": "",
+    "title": "Campaña de Jovenes",
+    "imageUrl": "https://raw.githubusercontent.com/dla-tech/Media-privada/refs/heads/main/363e2d9c-822c-4053-a7f8-e11c394a9792.jpeg",
+    "filename": "Campaña",
     "active": true,
     "order": 3,
     "aspectRatio": "1/1"
